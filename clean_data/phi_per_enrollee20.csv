@@ -1,0 +1,1201 @@
+Code,Item,Group,Region_Number,REGION_NAME,State_Name,Average_Annual_Percent_Growth,Year,Value
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2001,2176
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2002,2371
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2003,2594
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2004,2779
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2005,2981
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2006,3125
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2007,3312
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2008,3457
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2009,3713
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2010,3850
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2011,4006
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2012,4078
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2013,4081
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2014,4183
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2015,4339
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2016,4549
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2017,4735
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2018,4941
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2019,5129
+1,Private Health Insurance/Personal Health Care ($),United States,0,United States,,4.5,2020,4994
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2001,2518
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2002,2677
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2003,2845
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2004,3153
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2005,3319
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2006,3456
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2007,3674
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2008,4003
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2009,4317
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2010,4550
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2011,4751
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2012,4833
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2013,4753
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2014,4810
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2015,4981
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2016,5134
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2017,5557
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2018,5679
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2019,5708
+1,Private Health Insurance/Personal Health Care ($),Region,1,New England,,4.3,2020,5554
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2001,2378
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2002,2512
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2003,2746
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2004,2914
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2005,3108
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2006,3352
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2007,3585
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2008,3702
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2009,4038
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2010,4183
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2011,4448
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2012,4483
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2013,4572
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2014,4602
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2015,4852
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2016,4993
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2017,5281
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2018,5601
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2019,5775
+1,Private Health Insurance/Personal Health Care ($),Region,2,Mideast,,4.6,2020,5626
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2001,2282
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2002,2546
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2003,2789
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2004,2927
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2005,3156
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2006,3310
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2007,3533
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2008,3657
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2009,3867
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2010,3995
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2011,4010
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2012,4035
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2013,4050
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2014,4164
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2015,4275
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2016,4520
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2017,4727
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2018,4875
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2019,4982
+1,Private Health Insurance/Personal Health Care ($),Region,3,Great Lakes,,3.9,2020,4748
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2001,2053
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2002,2263
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2003,2447
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2004,2756
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2005,2784
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2006,3089
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2007,3184
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2008,3343
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2009,3558
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2010,3587
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2011,3858
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2012,3999
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2013,3905
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2014,3987
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2015,4120
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2016,4199
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2017,4523
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2018,4742
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2019,4904
+1,Private Health Insurance/Personal Health Care ($),Region,4,Plains,,4.5,2020,4698
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2001,2094
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2002,2281
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2003,2463
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2004,2679
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2005,2840
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2006,2929
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2007,3111
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2008,3282
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2009,3489
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2010,3617
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2011,3720
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2012,3821
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2013,3833
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2014,3958
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2015,4128
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2016,4285
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2017,4444
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2018,4705
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2019,4996
+1,Private Health Insurance/Personal Health Care ($),Region,5,Southeast,,4.5,2020,4872
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2001,2019
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2002,2272
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2003,2518
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2004,2626
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2005,2976
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2006,2992
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2007,3142
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2008,3212
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2009,3581
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2010,3762
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2011,3781
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2012,3966
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2013,3973
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2014,4079
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2015,4116
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2016,4398
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2017,4470
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2018,4713
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2019,4960
+1,Private Health Insurance/Personal Health Care ($),Region,6,Southwest,,4.6,2020,4763
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2001,1996
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2002,2180
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2003,2358
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2004,2478
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2005,2808
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2006,2885
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2007,2995
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2008,3057
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2009,3207
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2010,3178
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2011,3400
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2012,3500
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2013,3589
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2014,3726
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2015,3745
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2016,4076
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2017,4227
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2018,4216
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2019,4159
+1,Private Health Insurance/Personal Health Care ($),Region,7,Rocky Mountains,,3.9,2020,4102
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2001,2047
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2002,2219
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2003,2501
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2004,2678
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2005,2894
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2006,3031
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2007,3228
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2008,3390
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2009,3643
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2010,3827
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2011,4097
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2012,4097
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2013,4048
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2014,4201
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2015,4425
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2016,4748
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2017,4812
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2018,4940
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2019,5154
+1,Private Health Insurance/Personal Health Care ($),Region,8,Far West,,5,2020,5168
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2001,2184
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2002,2195
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2003,2448
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2004,2777
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2005,2774
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2006,2917
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2007,3125
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2008,3127
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2009,3403
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2010,3318
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2011,3371
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2012,3300
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2013,3330
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2014,3391
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2015,3566
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2016,3740
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2017,4041
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2018,4234
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2019,4681
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Alabama,4.1,2020,4680
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2001,3091
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2002,3306
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2003,3755
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2004,3984
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2005,4324
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2006,4000
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2007,4099
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2008,4434
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2009,4845
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2010,5089
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2011,5418
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2012,6143
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2013,5306
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2014,5470
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2015,6684
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2016,6804
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2017,6528
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2018,6278
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2019,6496
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Alaska,4,2020,6523
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2001,1836
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2002,1941
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2003,2254
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2004,2342
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2005,2770
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2006,2678
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2007,3035
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2008,3350
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2009,3464
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2010,3515
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2011,3777
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2012,3766
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2013,3417
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2014,3636
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2015,3828
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2016,4407
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2017,4318
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2018,4424
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2019,4495
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Arizona,4.5,2020,4231
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2001,1923
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2002,2352
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2003,2213
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2004,2387
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2005,2453
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2006,2768
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2007,2900
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2008,3211
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2009,3219
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2010,3160
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2011,3320
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2012,3562
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2013,3479
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2014,3663
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2015,3724
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2016,4128
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2017,4359
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2018,4634
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2019,4770
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Arkansas,5,2020,4836
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2001,2059
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2002,2165
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2003,2475
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2004,2633
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2005,2838
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2006,3005
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2007,3188
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2008,3329
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2009,3536
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2010,3763
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2011,4172
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2012,4135
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2013,4131
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2014,4307
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2015,4626
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2016,4976
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2017,4993
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2018,5071
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2019,5312
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,California,5.1,2020,5302
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2001,2056
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2002,2274
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2003,2502
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2004,2646
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2005,2918
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2006,2925
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2007,3148
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2008,3334
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2009,3522
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2010,3389
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2011,3758
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2012,3832
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2013,3981
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2014,4151
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2015,4115
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2016,4525
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2017,4835
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2018,4602
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2019,4468
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Colorado,4.3,2020,4538
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2001,2574
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2002,2574
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2003,2969
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2004,3229
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2005,3383
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2006,3555
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2007,3745
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2008,4116
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2009,4464
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2010,4522
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2011,4734
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2012,4777
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2013,4665
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2014,4813
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2015,4930
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2016,4996
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2017,5398
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2018,5473
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2019,5537
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Connecticut,4.3,2020,5692
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2001,2619
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2002,2887
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2003,2977
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2004,3379
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2005,3549
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2006,3668
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2007,3953
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2008,4036
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2009,4161
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2010,4311
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2011,4900
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2012,4425
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2013,4186
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2014,4436
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2015,4446
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2016,4776
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2017,5298
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2018,5544
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2019,5379
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Delaware,4.1,2020,5636
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2001,4942
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2002,5173
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2003,5858
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2004,6303
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2005,6371
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2006,6530
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2007,6561
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2008,6930
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2009,7483
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2010,7815
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2011,8498
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2012,8404
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2013,8256
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2014,8517
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2015,8445
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2016,8759
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2017,8972
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2018,9726
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2019,9752
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,District of Columbia,3.4,2020,9385
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2001,2107
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2002,2328
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2003,2434
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2004,2597
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2005,2803
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2006,2906
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2007,3127
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2008,3325
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2009,3533
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2010,3895
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2011,3917
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2012,3957
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2013,4011
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2014,4191
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2015,4319
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2016,4483
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2017,4639
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2018,5104
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2019,5272
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Florida,4.7,2020,5057
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2001,2353
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2002,2224
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2003,2655
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2004,2866
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2005,3102
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2006,2984
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2007,3101
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2008,3373
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2009,3475
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2010,3578
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2011,3761
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2012,3853
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2013,4018
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2014,4133
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2015,4520
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2016,4613
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2017,4700
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2018,4820
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2019,5277
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Georgia,4.4,2020,5359
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2001,2045
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2002,2008
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2003,2148
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2004,2544
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2005,2833
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2006,3001
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2007,3147
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2008,3337
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2009,3513
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2010,3525
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2011,3724
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2012,3899
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2013,3706
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2014,3905
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2015,4101
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2016,4421
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2017,4707
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2018,5186
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2019,5126
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Hawaii,4.4,2020,4601
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2001,1854
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2002,1983
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2003,2410
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2004,2427
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2005,2646
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2006,2855
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2007,2740
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2008,2732
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2009,2936
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2010,2898
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2011,2799
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2012,3027
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2013,3064
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2014,3170
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2015,3486
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2016,3759
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2017,3767
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2018,4076
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2019,4094
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Idaho,4.2,2020,4075
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2001,2297
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2002,2701
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2003,2846
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2004,2893
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2005,3054
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2006,3280
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2007,3505
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2008,3656
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2009,4104
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2010,4067
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2011,4134
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2012,4224
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2013,4355
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2014,4521
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2015,4566
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2016,4690
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2017,5012
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2018,5091
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2019,5084
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Illinois,4.1,2020,4942
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2001,2364
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2002,2579
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2003,2863
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2004,2990
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2005,3291
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2006,3147
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2007,3600
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2008,3735
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2009,3571
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2010,3586
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2011,3695
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2012,3862
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2013,3913
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2014,4062
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2015,4177
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2016,4294
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2017,4344
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2018,4529
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2019,4799
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Indiana,3.6,2020,4624
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2001,1953
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2002,2245
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2003,2379
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2004,2808
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2005,2766
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2006,3321
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2007,3263
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2008,3342
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2009,3551
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2010,3741
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2011,3609
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2012,3771
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2013,3680
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2014,3780
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2015,4011
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2016,4192
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2017,4629
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2018,4780
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2019,4836
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Iowa,4.6,2020,4605
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2001,2125
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2002,2138
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2003,2312
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2004,2619
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2005,2575
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2006,2697
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2007,2998
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2008,3167
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2009,3303
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2010,3457
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2011,3615
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2012,3693
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2013,3960
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2014,4025
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2015,4123
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2016,4124
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2017,4378
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2018,4614
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2019,4543
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Kansas,3.9,2020,4379
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2001,2009
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2002,2220
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2003,2442
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2004,2864
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2005,2878
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2006,2810
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2007,3121
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2008,3306
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2009,3797
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2010,3919
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2011,4313
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2012,4323
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2013,4246
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2014,4238
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2015,4408
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2016,4303
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2017,4124
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2018,4644
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2019,5065
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Kentucky,4.8,2020,4934
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2001,2015
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2002,2286
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2003,2376
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2004,2681
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2005,2992
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2006,3185
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2007,3097
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2008,3264
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2009,3425
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2010,3576
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2011,3597
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2012,4069
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2013,4002
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2014,4136
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2015,4451
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2016,4578
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2017,4540
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2018,4813
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2019,5061
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Louisiana,4.5,2020,4665
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2001,2286
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2002,2509
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2003,2699
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2004,3047
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2005,3178
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2006,3510
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2007,3575
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2008,3720
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2009,3974
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2010,4134
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2011,4334
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2012,4498
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2013,4555
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2014,4602
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2015,4590
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2016,5135
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2017,5155
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2018,5203
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2019,5557
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Maine,5.1,2020,5911
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2001,2053
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2002,2246
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2003,2405
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2004,2688
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2005,2884
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2006,3041
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2007,3184
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2008,3384
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2009,3739
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2010,3836
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2011,4036
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2012,4031
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2013,3893
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2014,4033
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2015,4140
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2016,4262
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2017,4486
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2018,4850
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2019,5024
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Maryland,4.8,2020,5045
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2001,2655
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2002,2860
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2003,2861
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2004,3168
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2005,3279
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2006,3445
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2007,3669
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2008,4022
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2009,4308
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2010,4692
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2011,4888
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2012,5060
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2013,4948
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2014,4935
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2015,5233
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2016,5345
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2017,5988
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2018,6145
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2019,6141
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Massachusetts,4.2,2020,5795
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2001,2313
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2002,2538
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2003,2835
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2004,2976
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2005,3143
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2006,3494
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2007,3545
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2008,3549
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2009,3744
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2010,3986
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2011,3744
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2012,3754
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2013,3593
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2014,3681
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2015,3885
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2016,4225
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2017,4456
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2018,4477
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2019,4937
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Michigan,3.7,2020,4633
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2001,2128
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2002,2389
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2003,2683
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2004,2847
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2005,2907
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2006,3078
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2007,3219
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2008,3543
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2009,3656
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2010,3704
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2011,4148
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2012,4083
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2013,3888
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2014,4090
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2015,4176
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2016,4355
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2017,4554
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2018,4642
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2019,4938
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Minnesota,4.4,2020,4825
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2001,2006
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2002,2015
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2003,2226
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2004,2345
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2005,2841
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2006,2639
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2007,3110
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2008,3150
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2009,3323
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2010,3603
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2011,3571
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2012,3656
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2013,3654
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2014,3723
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2015,3763
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2016,3801
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2017,3927
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2018,4171
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2019,4514
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Mississippi,4.1,2020,4310
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2001,1948
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2002,2138
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2003,2321
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2004,2686
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2005,2837
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2006,3214
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2007,3218
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2008,3276
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2009,3636
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2010,3421
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2011,3832
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2012,4188
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2013,4012
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2014,3933
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2015,4068
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2016,3995
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2017,4465
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2018,4836
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2019,5081
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Missouri,4.9,2020,4864
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2001,1979
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2002,1900
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2003,2197
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2004,2238
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2005,2614
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2006,2760
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2007,2793
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2008,2945
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2009,2914
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2010,2952
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2011,3365
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2012,3517
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2013,3514
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2014,3520
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2015,3339
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2016,3863
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2017,4377
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2018,4377
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2019,4583
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Montana,4.1,2020,4274
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2001,2276
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2002,2475
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2003,2548
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2004,2970
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2005,2735
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2006,3079
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2007,3290
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2008,3333
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2009,3568
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2010,3758
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2011,3913
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2012,4026
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2013,3807
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2014,4158
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2015,4126
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2016,4295
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2017,4569
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2018,4892
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2019,4843
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,Nebraska,3.6,2020,4437
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2001,1890
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2002,2267
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2003,2504
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2004,2801
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2005,2984
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2006,2817
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2007,2843
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2008,3206
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2009,3971
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2010,3790
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2011,3814
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2012,3167
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2013,3214
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2014,3404
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2015,3693
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2016,3482
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2017,3697
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2018,3841
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2019,4110
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Nevada,4.4,2020,4277
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2001,2205
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2002,2433
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2003,2709
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2004,3097
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2005,3396
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2006,3428
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2007,3673
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2008,4043
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2009,4469
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2010,4419
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2011,4814
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2012,4508
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2013,4476
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2014,4520
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2015,4552
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2016,4758
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2017,4771
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2018,5084
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2019,4938
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,New Hampshire,4.2,2020,4806
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2001,2404
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2002,2613
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2003,2787
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2004,3004
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2005,3088
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2006,3357
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2007,3542
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2008,3427
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2009,3827
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2010,3877
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2011,4211
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2012,4369
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2013,4606
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2014,4731
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2015,4769
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2016,5003
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2017,5166
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2018,5294
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2019,5725
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New Jersey,4.5,2020,5514
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2001,2117
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2002,1876
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2003,2163
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2004,2253
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2005,2475
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2006,2695
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2007,2700
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2008,2703
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2009,3303
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2010,3452
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2011,3819
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2012,4221
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2013,4015
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2014,4065
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2015,4147
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2016,4462
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2017,4739
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2018,4505
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2019,4933
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,New Mexico,4.4,2020,4773
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2001,2487
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2002,2561
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2003,2885
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2004,2920
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2005,3119
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2006,3471
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2007,3796
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2008,3966
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2009,4408
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2010,4684
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2011,4824
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2012,4834
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2013,4957
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2014,4871
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2015,5265
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2016,5324
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2017,5881
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2018,6367
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2019,6445
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,New York,5,2020,6264
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2001,2051
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2002,2574
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2003,2628
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2004,2517
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2005,2712
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2006,2962
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2007,2995
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2008,3204
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2009,3611
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2010,3505
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2011,3580
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2012,3551
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2013,3383
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2014,3525
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2015,3972
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2016,4169
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2017,4453
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2018,4487
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2019,4873
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,North Carolina,4.4,2020,4647
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2001,2087
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2002,2224
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2003,2214
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2004,2353
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2005,2461
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2006,2943
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2007,3016
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2008,3227
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2009,3370
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2010,3610
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2011,3935
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2012,4167
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2013,4178
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2014,4034
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2015,4454
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2016,4758
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2017,4796
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2018,4863
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2019,4967
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,North Dakota,4.6,2020,4906
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2001,2164
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2002,2283
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2003,2608
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2004,2833
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2005,3081
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2006,3175
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2007,3378
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2008,3545
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2009,3554
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2010,3879
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2011,3905
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2012,3849
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2013,3910
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2014,3970
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2015,4241
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2016,4520
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2017,4748
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2018,4933
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2019,4856
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Ohio,3.9,2020,4503
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2001,1847
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2002,2162
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2003,2430
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2004,2610
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2005,2876
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2006,2808
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2007,2845
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2008,2840
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2009,3320
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2010,3364
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2011,3239
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2012,3334
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2013,3292
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2014,3597
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2015,3692
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2016,3915
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2017,4217
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2018,4154
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2019,4480
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Oklahoma,4.9,2020,4620
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2001,1995
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2002,2140
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2003,2467
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2004,2726
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2005,2903
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2006,3157
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2007,3393
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2008,3514
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2009,3870
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2010,3969
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2011,3947
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2012,4055
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2013,3742
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2014,3823
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2015,3774
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2016,4179
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2017,4316
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2018,4660
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2019,4686
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Oregon,4.6,2020,4692
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2001,2245
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2002,2366
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2003,2545
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2004,2776
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2005,3058
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2006,3175
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2007,3360
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2008,3507
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2009,3645
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2010,3704
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2011,4072
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2012,4107
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2013,4194
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2014,4234
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2015,4528
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2016,4699
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2017,4711
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2018,4895
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2019,5036
+1,Private Health Insurance/Personal Health Care ($),State,2,Mideast,Pennsylvania,4.1,2020,4839
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2001,2309
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2002,2535
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2003,2736
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2004,3070
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2005,3411
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2006,3334
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2007,3633
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2008,3919
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2009,4071
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2010,4670
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2011,4432
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2012,4564
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2013,4416
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2014,4504
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2015,4393
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2016,4590
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2017,4647
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2018,4550
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2019,4501
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Rhode Island,3.2,2020,4213
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2001,2064
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2002,2145
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2003,2316
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2004,2650
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2005,2788
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2006,3006
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2007,3202
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2008,3300
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2009,3521
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2010,3488
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2011,3810
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2012,3705
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2013,3803
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2014,4007
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2015,3819
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2016,3972
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2017,4134
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2018,4153
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2019,4243
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,South Carolina,4.1,2020,4402
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2001,1931
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2002,2360
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2003,2425
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2004,2685
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2005,2753
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2006,2889
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2007,2909
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2008,3171
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2009,3354
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2010,3372
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2011,3690
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2012,3854
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2013,3968
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2014,3920
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2015,4190
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2016,4088
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2017,4394
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2018,4588
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2019,4989
+1,Private Health Insurance/Personal Health Care ($),State,4,Plains,South Dakota,4.7,2020,4634
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2001,2016
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2002,2267
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2003,2527
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2004,2896
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2005,2988
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2006,2915
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2007,3205
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2008,3605
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2009,3633
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2010,3739
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2011,3826
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2012,4100
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2013,4192
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2014,4262
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2015,4006
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2016,4421
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2017,4619
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2018,4823
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2019,5236
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Tennessee,5.4,2020,5501
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2001,2089
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2002,2418
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2003,2637
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2004,2738
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2005,3089
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2006,3130
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2007,3256
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2008,3276
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2009,3681
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2010,3924
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2011,3874
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2012,4109
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2013,4233
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2014,4276
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2015,4257
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2016,4468
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2017,4531
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2018,4889
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2019,5157
+1,Private Health Insurance/Personal Health Care ($),State,6,Southwest,Texas,4.6,2020,4923
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2001,1926
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2002,2135
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2003,2063
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2004,2227
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2005,2720
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2006,2830
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2007,2825
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2008,2705
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2009,2796
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2010,2919
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2011,3027
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2012,3058
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2013,3112
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2014,3264
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2015,3318
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2016,3529
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2017,3377
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2018,3539
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2019,3513
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Utah,2.9,2020,3287
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2001,2269
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2002,2471
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2003,2709
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2004,3019
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2005,3299
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2006,3146
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2007,3571
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2008,3747
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2009,4293
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2010,4061
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2011,4565
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2012,4497
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2013,4657
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2014,5019
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2015,5301
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2016,5422
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2017,5863
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2018,5876
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2019,5807
+1,Private Health Insurance/Personal Health Care ($),State,1,New England,Vermont,4.8,2020,5561
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2001,2069
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2002,2166
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2003,2377
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2004,2761
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2005,2769
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2006,2910
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2007,3112
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2008,3092
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2009,3264
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2010,3472
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2011,3447
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2012,3694
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2013,3713
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2014,3876
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2015,4061
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2016,4150
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2017,4316
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2018,4598
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2019,4761
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,Virginia,4.1,2020,4434
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2001,1977
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2002,2491
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2003,2624
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2004,2744
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2005,3017
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2006,3087
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2007,3417
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2008,3614
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2009,3836
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2010,4014
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2011,3869
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2012,4125
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2013,4062
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2014,4125
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2015,3933
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2016,4323
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2017,4513
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2018,4722
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2019,4951
+1,Private Health Insurance/Personal Health Care ($),State,8,Far West,Washington,5.1,2020,5096
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2001,1862
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2002,2359
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2003,2516
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2004,2524
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2005,2840
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2006,3107
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2007,3329
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2008,3328
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2009,3352
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2010,3342
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2011,3817
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2012,4097
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2013,3858
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2014,3661
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2015,3665
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2016,3838
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2017,4269
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2018,4760
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2019,5108
+1,Private Health Insurance/Personal Health Care ($),State,5,Southeast,West Virginia,4.9,2020,4602
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2001,2338
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2002,2728
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2003,2865
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2004,3043
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2005,3409
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2006,3504
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2007,3799
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2008,3981
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2009,4488
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2010,4520
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2011,4745
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2012,4644
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2013,4588
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2014,4701
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2015,4474
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2016,4898
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2017,4952
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2018,5360
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2019,5276
+1,Private Health Insurance/Personal Health Care ($),State,3,Great Lakes,Wisconsin,4.2,2020,5093
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2001,2200
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2002,2553
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2003,2758
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2004,2747
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2005,3019
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2006,3093
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2007,3580
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2008,3750
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2009,4071
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2010,3952
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2011,4142
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2012,4452
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2013,4465
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2014,4597
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2015,4466
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2016,4738
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2017,5215
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2018,5152
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2019,5012
+1,Private Health Insurance/Personal Health Care ($),State,7,Rocky Mountains,Wyoming,4.8,2020,5355
