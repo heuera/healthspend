@@ -1,5 +1,7 @@
 library(tidyverse)
-base_dir <- "~/Downloads/residence state estimates" 
+readRenviron(".Renviron")
+
+data_dir <- "~/Downloads/residence state estimates" 
 
 clean_data <- function(file){
     temp <- read.csv(file)
@@ -10,9 +12,9 @@ clean_data <- function(file){
             values_to = "Value"
             ) |> 
         mutate(Year = str_remove(Year, "Y"))
-    write_csv(temp, file.path("~/Desktop/healthspend/clean_data/", tolower(basename(file))))
+    write_csv(temp, file.path(readRenviron(".Renviron"), "clean_data", tolower(basename(file))))
 }
 
-for (f in list.files(base_dir, pattern = ".CSV", full.names = TRUE)){
+for (f in list.files(data_dir, pattern = ".CSV", full.names = TRUE)){
     clean_data(f)
 }
